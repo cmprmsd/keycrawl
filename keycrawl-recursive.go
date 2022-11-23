@@ -17,7 +17,7 @@ import (
 var mails []string
 
 //var charliststr = "za " // for debugging
-var charliststr = "abcdefghijklmnopqrstuvwxyz.-_ ("
+var charliststr = "abcdefghijklmnopqrstuvwxyz.-_ "
 var charlistrune = []rune(charliststr)
 var totalRequests = 0
 
